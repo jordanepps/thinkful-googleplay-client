@@ -1,0 +1,11 @@
+.playstore-apps {
+    text-align: left;
+    border: 1px solid black;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 5px 10px;
+}
+
+.playstore-apps h2 {
+    text-align: center;
+}
